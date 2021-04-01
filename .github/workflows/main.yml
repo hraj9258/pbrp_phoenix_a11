@@ -18,7 +18,7 @@ on:
 env:
   MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: phoenix
-  DT_LINK: https://github.com/hraj9258/pbrp_phoenix
+  DT_LINK: https://github.com/hraj9258/pbrp_phoenix_a11
   DT_PATH: device/xiaomi/phoenix
   CHAT_ID: ${{ secrets.BOT_CHAT_ID }}
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
